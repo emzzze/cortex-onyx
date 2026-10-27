@@ -20,4 +20,4 @@ Phase 0 — design committed; build phases are gated on client pilots.
 
 ## License
 
-MIT
+GNU AGPL-3.0 — see `LICENSE`. Use it, learn from it, build on it; run a modified version as a service and your source comes with it.
